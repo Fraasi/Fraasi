@@ -6,7 +6,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraasi&show_icons=true&theme=tokyonight&layout=compact" alt="fraasi" />
 </p>
 
-
 <p align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="20" height="20"/>
@@ -18,6 +17,8 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="20" height="20"/>
- <img src="https://raw.githubusercontent.com/Fraasi/file-repo/master/pics/bash_monochrome_dark.svg" alt="bash" width="22" height="22"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fraasi/file-repo/master/pics/bash_monochrome_dark.svg" alt="bash" width="45" height="45"/>
+</p>
