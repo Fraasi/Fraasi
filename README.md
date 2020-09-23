@@ -17,7 +17,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain.svg" alt="monfodb" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="electron" width="20" height="20"/>
- <img src="https://komarev.com/ghpvc/?username=fraasi" alt="fraasi" /> </img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="20" height="20"/>
+ <img src="https://raw.githubusercontent.com/Fraasi/file-repo/b0a7f299edb3783db39ff8bc4a392f62a12010e8/pics/bash_monochrome_dark.svg" alt="bash" width="20" height="20"/>
 </p>
 
