@@ -1,27 +1,9 @@
+
 <p align="center">
-
-Account age: **4** years
-
-With **35** repositories
-
-Pushed **769** commits
-
-Opened **10** issues
-
-Submitted **31** pull requests
-
-Received **4** stars
-
-
-Contributed to **6** public repositories
-
-Top most used languages across my repositories:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.8%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.4%25)
-
+ <img src="https://github-readme-stats.vercel.app/api?username=fraasi&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=true" alt="fraasi"/>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraasi&show_icons=true&theme=tokyonight&layout=compact" alt="fraasi" />
 </p>
 
 <p align="center">
@@ -40,4 +22,3 @@ Top most used languages across my repositories:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fraasi/file-repo/master/pics/bash_monochrome_dark.svg" alt="bash" width="45" height="45"/>
 </p>
-

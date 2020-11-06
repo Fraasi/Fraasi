@@ -1,0 +1,28 @@
+{
+  "name": "fraasi",
+  "version": "0.0.1",
+  "description": "graphql data from github and update readme",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "format": "prettier **/*.{ts,json,yml,md} --check",
+    "format:fix": "prettier **/*.{ts,json,yml,md} --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraasi/Fraasi.git"
+  },
+  "author": "Fraasi <fraasi.gh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraasi/Fraasi/issues"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@octokit/graphql": "^4.5.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7"
+  }
+}

@@ -1,26 +1,24 @@
 <p align="center">
 
-Account age: **4** years
+Account age: **{{ ACCOUNT_AGE }}** years
 
-With **35** repositories
+With **{{ REPOSITORIES }}** repositories
 
-Pushed **769** commits
+Pushed **{{ COMMITS }}** commits
 
-Opened **10** issues
+Opened **{{ ISSUES }}** issues
 
-Submitted **31** pull requests
+Submitted **{{ PULL_REQUESTS }}** pull requests
 
-Received **4** stars
+Received **{{ STARS }}** stars
 
-
-Contributed to **6** public repositories
+Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
 Top most used languages across my repositories:
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.8%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.4%25)
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 </p>
 
