@@ -2,7 +2,7 @@
 ### Fraasi is **{{ ACCOUNT_AGE }}** years old with history of...
 
 | Repos | Commits | Issues opened | pr's |
-| --- | --- | --- | --- | 
+| ---: | ---: | ---: | ---: | 
 | **{{ REPOSITORIES }}** | **{{ COMMITS }}** | **{{ ISSUES }}** | **{{ PULL_REQUESTS }}** |
   
 
