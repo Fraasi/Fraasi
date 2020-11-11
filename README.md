@@ -2,8 +2,8 @@
 ### Fraasi is **4** years old with history of...
 
 | Repos | Commits | Issues opened | pr's |
-| --- | --- | --- | --- | 
-| **35** | **779** | **10** | **31** |
+| ---: | ---: | ---: | ---: | 
+| **35** | **782** | **10** | **31** |
   
 
 In this moment of time I have received **4** stars  
