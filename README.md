@@ -1,13 +1,13 @@
 
-### Fraasi is **{{ ACCOUNT_AGE }}** years old with history of...
+### Fraasi is **4** years old with history of...
 
 | Repos | Commits | Issues opened | pr's |
 | --- | --- | --- | --- | 
-| **{{ REPOSITORIES }}** | **{{ COMMITS }}** | **{{ ISSUES }}** | **{{ PULL_REQUESTS }}** |
+| **35** | **779** | **10** | **31** |
   
 
-In this moment of time I have received **{{ STARS }}** stars  
-and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+In this moment of time I have received **4** stars  
+and contributed to **6** public repositories
  
 
 
