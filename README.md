@@ -5,12 +5,12 @@
 | --- | --- | --- | --- | 
 | **35** | **779** | **10** | **31** |
   
+<br/>
 
 In this moment of time I have received **4** stars  
-and contributed to **6** public repositories
- 
+and contributed to **6** public repositories 
 
-
+<br />
 
 Languages I've learned (used) so far...  
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
@@ -21,6 +21,7 @@ Languages I've learned (used) so far...
 
 </p>
 
+<br />
 <p align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="20" height="20"/>

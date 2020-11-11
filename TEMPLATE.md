@@ -1,18 +1,19 @@
 
-### Fraasi is **{{ ACCOUNT_AGE }}** years old with history of...
+### Fraasi is a **{{ ACCOUNT_AGE }}** years old githubber with history of...
 
 | Repos | Commits | Issues opened | pr's |
 | ---: | ---: | ---: | ---: | 
 | **{{ REPOSITORIES }}** | **{{ COMMITS }}** | **{{ ISSUES }}** | **{{ PULL_REQUESTS }}** |
   
+<br />
 
 In this moment of time I have received **{{ STARS }}** stars  
 and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
  
-
-
+<br />
 
 Languages I've learned (used) so far...  
+
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
