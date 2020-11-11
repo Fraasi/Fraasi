@@ -1,24 +1,23 @@
-<p align="center">
 
-Account age: **{{ ACCOUNT_AGE }}** years
+### Fraasi is **{{ ACCOUNT_AGE }}** years old with history of...
 
-With **{{ REPOSITORIES }}** repositories
+| Repos | Commits | Issues opened | pr's |
+| --- | --- | --- | --- | 
+| **{{ REPOSITORIES }}** | **{{ COMMITS }}** | **{{ ISSUES }}** | **{{ PULL_REQUESTS }}** |
+  
 
-Pushed **{{ COMMITS }}** commits
+In this moment of time I have received **{{ STARS }}** stars  
+and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+ 
 
-Opened **{{ ISSUES }}** issues
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
 
-Received **{{ STARS }}** stars
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top most used languages across my repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+Languages I've learned (used) so far...  
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.4%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B10.4%25)
 
 </p>
 

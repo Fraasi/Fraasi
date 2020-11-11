@@ -1,21 +1,18 @@
-<p align="center">
 
-Account age: **4** years
+### Fraasi is **{{ ACCOUNT_AGE }}** years old with history of...
 
-With **35** repositories
+| Repos | Commits | Issues opened | pr's |
+| --- | --- | --- | --- | 
+| **{{ REPOSITORIES }}** | **{{ COMMITS }}** | **{{ ISSUES }}** | **{{ PULL_REQUESTS }}** |
+  
 
-Pushed **777** commits
+In this moment of time I have received **{{ STARS }}** stars  
+and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+ 
 
-Opened **10** issues
 
-Submitted **31** pull requests
 
-Received **4** stars
-
-Contributed to **6** public repositories
-
-Top most used languages across my repositories:
-
+Languages I've learned (used) so far...  
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.3%25)
