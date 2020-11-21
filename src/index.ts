@@ -1,3 +1,4 @@
+// Modified from https://github.com/teoxoy/profile-readme-stats
 import { promises as fs } from 'fs'
 import * as core from '@actions/core'
 import { graphql } from '@octokit/graphql'
