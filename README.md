@@ -3,7 +3,7 @@
 
 | Repos | Commits | Issues opened | pr's |
 | ---: | ---: | ---: | ---: | 
-| **35** | **790** | **10** | **31** |
+| **35** | **903** | **10** | **31** |
   
 <br />
 
@@ -12,7 +12,7 @@ and contributed to **6** public repositories
  
 <br />
 
-Languages breakdown...  
+Codebase so far...  
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B194.4%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
