@@ -3,12 +3,12 @@
 
 | Repos | Commits | Issues opened | pr's |
 | ---: | ---: | ---: | ---: | 
-| **37** | **1111** | **12** | **31** |
+| **37** | **1112** | **12** | **32** |
   
 <br />
 
 In this moment of time I have received **4** stars  
-and contributed to **6** public repositories
+and contributed to **7** public repositories
  
 <br />
 
