@@ -7,7 +7,7 @@
   
 <br />
 
-In this moment of time I have received **4** stars  
+In this moment of time I have received **5** stars  
 and contributed to **7** public repositories
  
 <br />
