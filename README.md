@@ -39,3 +39,4 @@ Codebase so far...
   <img src="https://raw.githubusercontent.com/Fraasi/file-repo/master/pics/bash_monochrome_dark.svg" alt="bash" width="45" height="45"/>
 </p>
 
+![Metrics](/github-metrics.svg)
