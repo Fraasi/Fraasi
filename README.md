@@ -3,7 +3,7 @@
 
 | Repos | Commits | Issues opened | pr's |
 | ---: | ---: | ---: | ---: | 
-| **40** | **1312** | **15** | **32** |
+| **40** | **1314** | **15** | **32** |
   
 <br />
 
@@ -39,4 +39,3 @@ Codebase so far...
   <img src="https://raw.githubusercontent.com/Fraasi/file-repo/master/pics/bash_monochrome_dark.svg" alt="bash" width="45" height="45"/>
 </p>
 
-![Metrics](/github-metrics.svg)
